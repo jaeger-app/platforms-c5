@@ -1,6 +1,9 @@
 {
 	"name": "jaeger-app/platforms-c5",
 	"description": "A Concrete5 CMS Platform object for use with Jaeger.",
+    "keywords": [
+        "Concrete5"
+    ],	
 	"require": {
 		"php": ">=5.4.0",
 		"jaeger-app/exceptions": "dev-master",
