@@ -5,4 +5,4 @@
 [![Author](http://img.shields.io/badge/author-@mithra62-blue.svg?style=flat-square)](https://twitter.com/mithra62)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jaeger-app/bootstrap/master/LICENSE) 
 
-A CMS Platform abstraction layer for platform agnostic development.
+A Concrete5 CMS Platform object for use with Jaeger.
