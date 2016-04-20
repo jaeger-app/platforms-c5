@@ -1,6 +1,6 @@
 {
 	"name": "jaeger-app/platforms-c5",
-	"description": "A Concrete5 CMS Platform driver for use with Jaeger.",
+	"description": "A Concrete5 Platform driver for use with Jaeger\\Platform.",
     "keywords": [
         "Concrete5"
     ],	
