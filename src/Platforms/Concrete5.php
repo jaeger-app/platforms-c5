@@ -5,7 +5,7 @@
  * @copyright	Copyright (c) 2015-2016, mithra62
  * @link		http://jaeger-app.com
  * @version		1.0
- * @filesource 	./Platforms/Prestashop.php
+ * @filesource 	./Platforms/Concrete5.php
  */
 namespace JaegerApp\Platforms;
 
